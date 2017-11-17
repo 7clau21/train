@@ -1,0 +1,37 @@
+/* Header */
+.hm-gradient {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);}
+.jumbotron {
+    /* Override jumbotron background color 
+    background-color: #24A1B7 !important;*/
+    /*background-image: url("https://media.giphy.com/media/NwygOzUd2rXAQ/giphy.gif");*/
+    background-color: #24A1B7 !important;
+    background-size: cover;
+}
+.header {
+    font-family: 'Zilla Slab Highlight', cursive;
+    color: white;
+    text-align: center;
+}
+h3{
+    font-family: Roboto, sans-serif;
+    font-size: 25px;
+}
+.table th {
+    text-align: center;
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    font-size: 16px;
+    font-weight: 500;
+}
+.table td {
+    text-align: center;
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    font-size: 14px;
+    font-weight: 400;
+}
